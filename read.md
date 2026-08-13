@@ -118,3 +118,30 @@ Successfully designed and implemented a scalable enterprise network using Static
 
 ### Outcome
 Successfully designed and configured a small enterprise network using VLSM, VLANs, and Static Routing. Gained practical experience in IP planning, network segmentation, hierarchical network design, routing configuration, and implementing communication policies between different departments.
+
+---
+
+## Week 8 – Routing & Inter-VLAN Routing
+
+### Objectives
+
+* Study static and dynamic routing.
+* Configure VLANs, trunking, and inter-VLAN routing.
+* Implement Router-on-a-Stick using Cisco Packet Tracer.
+
+### Activities
+
+* Extended the Week 5 enterprise topology with additional VLANs.
+* Configured VLANs for Sales, IT, Finance, and HR.
+* Configured 802.1Q trunking between switches and Router 2.
+* Implemented Router-on-a-Stick using router subinterfaces.
+* Configured inter-VLAN routing between IT (VLAN 20) and Finance (VLAN 30).
+* Reviewed OSPF, EIGRP, RIP, and BGP as dynamic routing protocols.
+* Verified VLANs, trunk interfaces, router subinterfaces, routing tables, and end-to-end connectivity.
+
+### Outcome
+
+Gained practical experience with static and dynamic routing, VLAN segmentation, 802.1Q trunking, and Router-on-a-Stick inter-VLAN routing. Successfully verified communication between different VLANs.
+
+---
+
